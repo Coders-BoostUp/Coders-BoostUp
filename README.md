@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/coders-boostup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/coders-boostup/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/codersboostup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codersboostup/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@codersboostup-l7b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codersboostup-l7b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/coders-boostup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coders-boostup/" height="30" width="40" /></a>
+<a href="https://instagram.com/codersboostup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codersboostup/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@codersboostup-l7b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codersboostup-l7b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
